@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert
+END
+RepeatOpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert/RepeatOpenAction.java
+END
+InsertChordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert/InsertChordAction.java
+END
+RepeatCloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert/RepeatCloseAction.java
+END
+InsertTextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert/InsertTextAction.java
+END
+RepeatAlternativeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/insert/RepeatAlternativeAction.java
+END

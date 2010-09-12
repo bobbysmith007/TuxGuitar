@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects
+END
+TGEffectBend.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectBend.java
+END
+TGEffectHarmonic.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectHarmonic.java
+END
+TGEffectGrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectGrace.java
+END
+TGEffectTremoloBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectTremoloBar.java
+END
+TGEffectTremoloPicking.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectTremoloPicking.java
+END
+TGEffectTrill.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/effects/TGEffectTrill.java
+END

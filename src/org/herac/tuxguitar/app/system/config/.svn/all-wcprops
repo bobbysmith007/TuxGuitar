@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/856/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config
+END
+TGConfigEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config/TGConfigEditor.java
+END
+TGConfigDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config/TGConfigDefaults.java
+END
+TGConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config/TGConfigManager.java
+END
+TGConfigKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/856/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config/TGConfigKeys.java
+END
+TGConfigManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/config/TGConfigManagerImpl.java
+END

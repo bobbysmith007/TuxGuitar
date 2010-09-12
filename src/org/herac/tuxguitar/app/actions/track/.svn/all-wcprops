@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track
+END
+TrackPropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/TrackPropertiesAction.java
+END
+GoFirstTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/GoFirstTrackAction.java
+END
+RemoveTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/RemoveTrackAction.java
+END
+MoveTrackDownAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/MoveTrackDownAction.java
+END
+CloneTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/CloneTrackAction.java
+END
+GoPreviousTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/GoPreviousTrackAction.java
+END
+GoNextTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/GoNextTrackAction.java
+END
+EditLyricsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/EditLyricsAction.java
+END
+AddTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/AddTrackAction.java
+END
+GoToTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/GoToTrackAction.java
+END
+GoLastTrackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/GoLastTrackAction.java
+END
+MoveTrackUpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/track/MoveTrackUpAction.java
+END

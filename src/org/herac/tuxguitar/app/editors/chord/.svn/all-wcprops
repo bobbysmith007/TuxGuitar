@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord
+END
+ChordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordDialog.java
+END
+ChordSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordSelector.java
+END
+ChordSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordSettings.java
+END
+ChordSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordSettingsDialog.java
+END
+ChordDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordDatabase.java
+END
+ChordCreatorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordCreatorListener.java
+END
+CustomChordManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/CustomChordManager.java
+END
+ChordCustomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordCustomList.java
+END
+ChordEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordEditor.java
+END
+ChordRecognizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordRecognizer.java
+END
+ChordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordList.java
+END
+ChordNamingConvention.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordNamingConvention.java
+END
+ChordCreatorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/chord/ChordCreatorUtil.java
+END

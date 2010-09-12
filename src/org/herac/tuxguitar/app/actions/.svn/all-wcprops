@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/857/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions
+END
+ActionLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/ActionLock.java
+END
+ActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/ActionManager.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/Action.java
+END
+ActionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/ActionAdapter.java
+END

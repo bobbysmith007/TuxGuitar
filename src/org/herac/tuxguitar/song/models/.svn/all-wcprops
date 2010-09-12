@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/802/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models
+END
+TGTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/253/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGTrack.java
+END
+TGNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/377/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGNote.java
+END
+TGVoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/393/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGVoice.java
+END
+TGString.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGString.java
+END
+TGSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/541/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGSong.java
+END
+TGVelocities.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGVelocities.java
+END
+TGStroke.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/491/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGStroke.java
+END
+TGChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/585/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGChannel.java
+END
+TGMeasureHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGMeasureHeader.java
+END
+TGBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/434/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGBeat.java
+END
+TGColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGColor.java
+END
+TGTimeSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGTimeSignature.java
+END
+TGMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGMarker.java
+END
+TGNoteEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGNoteEffect.java
+END
+TGLyric.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGLyric.java
+END
+TGTempo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGTempo.java
+END
+TGText.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGText.java
+END
+TGDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGDuration.java
+END
+TGDivisionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGDivisionType.java
+END
+TGScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGScale.java
+END
+TGChord.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/568/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGChord.java
+END
+TGMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/802/trunk/TuxGuitar/src/org/herac/tuxguitar/song/models/TGMeasure.java
+END

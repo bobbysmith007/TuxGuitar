@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure
+END
+CleanMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/CleanMeasureAction.java
+END
+GoPreviousMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/GoPreviousMeasureAction.java
+END
+GoNextMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/GoNextMeasureAction.java
+END
+AddMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/AddMeasureAction.java
+END
+GoLastMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/GoLastMeasureAction.java
+END
+CopyMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/CopyMeasureAction.java
+END
+PasteMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/PasteMeasureAction.java
+END
+GoFirstMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/GoFirstMeasureAction.java
+END
+RemoveMeasureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/measure/RemoveMeasureAction.java
+END

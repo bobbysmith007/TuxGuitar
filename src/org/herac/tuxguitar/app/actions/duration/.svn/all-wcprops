@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration
+END
+SetThirtySecondDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetThirtySecondDurationAction.java
+END
+SetQuarterDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetQuarterDurationAction.java
+END
+ChangeDoubleDottedDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/ChangeDoubleDottedDurationAction.java
+END
+IncrementDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/IncrementDurationAction.java
+END
+SetEighthDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetEighthDurationAction.java
+END
+SetSixtyFourthDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetSixtyFourthDurationAction.java
+END
+ChangeDivisionTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/ChangeDivisionTypeAction.java
+END
+DecrementDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/DecrementDurationAction.java
+END
+SetHalfDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetHalfDurationAction.java
+END
+SetSixteenthDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetSixteenthDurationAction.java
+END
+ChangeDottedDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/ChangeDottedDurationAction.java
+END
+SetWholeDurationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/duration/SetWholeDurationAction.java
+END

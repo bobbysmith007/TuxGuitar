@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view
+END
+ShowMatrixAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowMatrixAction.java
+END
+ShowMixerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowMixerAction.java
+END
+ShowToolbarsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowToolbarsAction.java
+END
+ShowPianoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowPianoAction.java
+END
+ShowFretBoardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowFretBoardAction.java
+END
+ShowTransportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/view/ShowTransportAction.java
+END

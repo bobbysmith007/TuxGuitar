@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects
+END
+BendEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/BendEditor.java
+END
+HarmonicEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/HarmonicEditor.java
+END
+GraceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/GraceEditor.java
+END
+TremoloBarEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/TremoloBarEditor.java
+END
+TremoloPickingEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/TremoloPickingEditor.java
+END
+TrillEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/TrillEditor.java
+END
+StrokeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/effects/StrokeEditor.java
+END

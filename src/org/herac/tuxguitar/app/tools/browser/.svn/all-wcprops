@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser
+END
+TGBrowserFactoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserFactoryHandler.java
+END
+TGBrowserCollectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserCollectionInfo.java
+END
+TGBrowserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserManager.java
+END
+TGBrowserCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserCollection.java
+END
+TGBrowserConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserConnectionHandler.java
+END
+TGBrowserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserException.java
+END
+TGBrowserConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/browser/TGBrowserConnection.java
+END

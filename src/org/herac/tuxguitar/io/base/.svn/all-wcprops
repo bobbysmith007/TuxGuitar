@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/603/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base
+END
+TGInputStreamBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGInputStreamBase.java
+END
+TGFileFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGFileFormatException.java
+END
+TGOutputStreamBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGOutputStreamBase.java
+END
+TGFileFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGFileFormat.java
+END
+TGRawImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/598/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGRawImporter.java
+END
+TGLocalFileImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/598/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGLocalFileImporter.java
+END
+TGSongLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGSongLoader.java
+END
+TGRawExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/598/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGRawExporter.java
+END
+TGFileFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/603/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGFileFormatManager.java
+END
+TGLocalFileExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/598/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGLocalFileExporter.java
+END
+TGSongWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/519/trunk/TuxGuitar/src/org/herac/tuxguitar/io/base/TGSongWriter.java
+END

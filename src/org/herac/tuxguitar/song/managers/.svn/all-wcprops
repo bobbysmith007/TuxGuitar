@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/song/managers
+END
+TGMeasureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/song/managers/TGMeasureManager.java
+END
+TGTrackManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/744/trunk/TuxGuitar/src/org/herac/tuxguitar/song/managers/TGTrackManager.java
+END
+TGSongManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/song/managers/TGSongManager.java
+END

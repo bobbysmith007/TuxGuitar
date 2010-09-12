@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/scale
+END
+ScaleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/scale/ScaleManager.java
+END
+ScaleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/scale/ScaleInfo.java
+END
+ScaleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/scale/ScaleListener.java
+END
+ScaleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/tools/scale/ScaleEditor.java
+END

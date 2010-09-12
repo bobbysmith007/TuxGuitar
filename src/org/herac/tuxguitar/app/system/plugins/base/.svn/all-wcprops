@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base
+END
+TGExporterPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGExporterPlugin.java
+END
+TGMidiSequencerProviderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGMidiSequencerProviderPlugin.java
+END
+TGInputStreamPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGInputStreamPlugin.java
+END
+TGPluginList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGPluginList.java
+END
+TGOutputStreamPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGOutputStreamPlugin.java
+END
+TGToolItemPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGToolItemPlugin.java
+END
+TGPluginAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGPluginAdapter.java
+END
+TGImporterPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGImporterPlugin.java
+END
+TGBrowserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGBrowserPlugin.java
+END
+TGMidiOutputPortProviderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/system/plugins/base/TGMidiOutputPortProviderPlugin.java
+END

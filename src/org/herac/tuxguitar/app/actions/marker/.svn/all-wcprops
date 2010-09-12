@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker
+END
+GoPreviousMarkerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/GoPreviousMarkerAction.java
+END
+GoNextMarkerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/GoNextMarkerAction.java
+END
+AddMarkerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/AddMarkerAction.java
+END
+GoLastMarkerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/GoLastMarkerAction.java
+END
+GoFirstMarkerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/GoFirstMarkerAction.java
+END
+ListMarkersAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/marker/ListMarkersAction.java
+END

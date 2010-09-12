@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/856/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors
+END
+TGImageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGImageImpl.java
+END
+FretBoardEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/FretBoardEditor.java
+END
+TGPainterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/854/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGPainterImpl.java
+END
+TGExternalBeatViewerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGExternalBeatViewerListener.java
+END
+TGFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/852/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGFontImpl.java
+END
+TGUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGUpdateListener.java
+END
+TGRedrawListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGRedrawListener.java
+END
+EditorCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/EditorCache.java
+END
+TablatureEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/849/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TablatureEditor.java
+END
+TGColorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGColorImpl.java
+END
+TGEditorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGEditorManager.java
+END
+TGResourceFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGResourceFactoryImpl.java
+END
+PianoEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/PianoEditor.java
+END
+TGPainterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/editors/TGPainterUtils.java
+END

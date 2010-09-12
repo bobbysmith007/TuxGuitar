@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure
+END
+UndoableInsertMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure/UndoableInsertMeasure.java
+END
+UndoableAddMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure/UndoableAddMeasure.java
+END
+UndoableMeasureGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure/UndoableMeasureGeneric.java
+END
+UndoableRemoveMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure/UndoableRemoveMeasure.java
+END
+UndoableReplaceMeasures.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/measure/UndoableReplaceMeasures.java
+END

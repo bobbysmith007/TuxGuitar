@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/tuxguitar/!svn/ver/806/trunk/TuxGuitar/dist
+END
+about_description.dist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/tuxguitar/!svn/ver/617/trunk/TuxGuitar/dist/about_description.dist
+END
+shortcuts-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/tuxguitar/!svn/ver/618/trunk/TuxGuitar/dist/shortcuts-default.xml
+END
+about_authors.dist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/tuxguitar/!svn/ver/806/trunk/TuxGuitar/dist/about_authors.dist
+END
+config.dist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/tuxguitar/!svn/ver/758/trunk/TuxGuitar/dist/config.dist
+END
+about_license.dist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/dist/about_license.dist
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/io/tg
+END
+TGInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/io/tg/TGInputStream.java
+END
+TGStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/io/tg/TGStream.java
+END
+TGOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/795/trunk/TuxGuitar/src/org/herac/tuxguitar/io/tg/TGOutputStream.java
+END

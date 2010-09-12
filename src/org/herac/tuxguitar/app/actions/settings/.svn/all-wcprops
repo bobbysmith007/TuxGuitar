@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/settings
+END
+EditPluginsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/settings/EditPluginsAction.java
+END
+EditConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/settings/EditConfigAction.java
+END
+EditKeyBindingsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/settings/EditKeyBindingsAction.java
+END

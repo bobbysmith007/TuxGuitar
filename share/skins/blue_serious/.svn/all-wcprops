@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/tuxguitar/!svn/ver/620/trunk/TuxGuitar/share/skins/blue_serious
+END
+chord.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/chord.png
+END
+settings.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/settings.png
+END
+icon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon.icns
+END
+fret.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/fret.png
+END
+effect_fade_in.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_fade_in.png
+END
+openrepeat.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/openrepeat.png
+END
+browser_back.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_back.png
+END
+transport_icon_last_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_last_1.png
+END
+icon-32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-32x32.png
+END
+transport_icon_play_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_play_2.png
+END
+transport_next_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_next_1.png
+END
+layout_multitrack.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/layout_multitrack.png
+END
+repeat_alternative.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/repeat_alternative.png
+END
+marker_next.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_next.png
+END
+timesignature.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/timesignature.png
+END
+effect_tremolo_bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_tremolo_bar.png
+END
+dotted.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dotted.png
+END
+transport_icon_first_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_first_1.png
+END
+edit_mode_selection.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/edit_mode_selection.png
+END
+1.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/1.png
+END
+browser_refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_refresh.png
+END
+marker_last.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_last.png
+END
+transport_previous_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_previous_1.png
+END
+layout_page.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/layout_page.png
+END
+icon-24x24.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-24x24.png
+END
+skin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/skin.properties
+END
+marker_list.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_list.png
+END
+marker_previous.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_previous.png
+END
+doubledotted.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/doubledotted.png
+END
+browser_folder.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_folder.png
+END
+transport_metronome.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_metronome.png
+END
+browser_file.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_file.png
+END
+transport_icon_next_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_next_2.png
+END
+tempo.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/tempo.png
+END
+effect_popping.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_popping.png
+END
+effect_grace.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_grace.png
+END
+marker_remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_remove.png
+END
+save-as.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/save-as.png
+END
+dynamic_ff.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_ff.png
+END
+effect_palm_mute.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_palm_mute.png
+END
+closerepeat.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/closerepeat.png
+END
+layout_score.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/layout_score.png
+END
+effect_dead.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_dead.png
+END
+option_language.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_language.png
+END
+icon-16x16.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-16x16.png
+END
+option_toolbars.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_toolbars.png
+END
+about_description.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/about_description.png
+END
+option_sound.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_sound.png
+END
+transport_icon_previous_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_previous_2.png
+END
+grace.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/grace.png
+END
+transport_stop_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_stop_2.png
+END
+effect_heavy_accentuated.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_heavy_accentuated.png
+END
+edit_voice_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/458/trunk/TuxGuitar/share/skins/blue_serious/edit_voice_1.png
+END
+icon-96x96.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-96x96.png
+END
+tupleto.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/tupleto.png
+END
+edit_redo.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/211/trunk/TuxGuitar/share/skins/blue_serious/edit_redo.png
+END
+transport_last_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_last_1.png
+END
+transport_mode.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_mode.png
+END
+transport_icon_pause.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_pause.png
+END
+open.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/open.png
+END
+transport_play_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_play_2.png
+END
+firstfret.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/firstfret.png
+END
+effect_harmonic.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_harmonic.png
+END
+icon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tuxguitar/!svn/ver/349/trunk/TuxGuitar/share/skins/blue_serious/icon.ico
+END
+effect_tapping.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_tapping.png
+END
+skin.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tuxguitar/!svn/ver/458/trunk/TuxGuitar/share/skins/blue_serious/skin.svg
+END
+effect_vibrato.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_vibrato.png
+END
+transport_first_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_first_1.png
+END
+edit_mode_edition_no_natural.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/edit_mode_edition_no_natural.png
+END
+16.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/16.png
+END
+transport_icon_stop_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_stop_1.png
+END
+effect_slapping.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_slapping.png
+END
+splash.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/splash.png
+END
+effect_trill.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_trill.png
+END
+dynamic_ppp.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_ppp.png
+END
+transport_icon_last_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_last_2.png
+END
+transport_icon_play_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_play_1.png
+END
+transport_next_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_next_2.png
+END
+about_authors.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/about_authors.png
+END
+track_remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/track_remove.png
+END
+skin-preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/skin-preview.png
+END
+dynamic_pp.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_pp.png
+END
+mixer.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/mixer.png
+END
+effect_hammer.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_hammer.png
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon.png
+END
+marker_add.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_add.png
+END
+dynamic_f.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_f.png
+END
+64.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/64.png
+END
+transport_icon_first_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_first_2.png
+END
+transport.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport.png
+END
+browser_new.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_new.png
+END
+effect_ghost.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_ghost.png
+END
+2.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/2.png
+END
+dynamic_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_p.png
+END
+4.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/4.png
+END
+dynamic_fff.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_fff.png
+END
+dynamic_mf.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_mf.png
+END
+8.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/8.png
+END
+transport_previous_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_previous_2.png
+END
+tiednote.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/tiednote.png
+END
+effect_slide.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_slide.png
+END
+dynamic_mp.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/dynamic_mp.png
+END
+icon-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-64x64.png
+END
+transport_icon_next_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_next_1.png
+END
+32.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/32.png
+END
+effect_bend.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_bend.png
+END
+browser_root.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/browser_root.png
+END
+transport_pause.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_pause.png
+END
+option_skin.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_skin.png
+END
+save.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/save.png
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/logo.png
+END
+edit_mode_edition.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/edit_mode_edition.png
+END
+layout_linear.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/layout_linear.png
+END
+fretboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/fretboard.png
+END
+edit_undo.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/211/trunk/TuxGuitar/share/skins/blue_serious/edit_undo.png
+END
+print-preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/print-preview.png
+END
+track_add.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/track_add.png
+END
+effect_staccato.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_staccato.png
+END
+transport_icon_previous_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_previous_1.png
+END
+transport_stop_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_stop_1.png
+END
+marker_first.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/marker_first.png
+END
+new.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/new.png
+END
+edit_voice_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/458/trunk/TuxGuitar/share/skins/blue_serious/edit_voice_2.png
+END
+print.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/print.png
+END
+effect_accentuated.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_accentuated.png
+END
+tempoicon.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/tempoicon.png
+END
+transport_last_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_last_2.png
+END
+effect_tremolo_picking.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/effect_tremolo_picking.png
+END
+transport_play_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_play_1.png
+END
+option_view.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_view.png
+END
+division-type.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/620/trunk/TuxGuitar/share/skins/blue_serious/division-type.png
+END
+about_license.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/about_license.png
+END
+song_properties.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/song_properties.png
+END
+layout_compact.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/layout_compact.png
+END
+transport_first_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_first_2.png
+END
+icon-48x48.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/icon-48x48.png
+END
+option_style.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/option_style.png
+END
+transport_icon_stop_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/share/skins/blue_serious/transport_icon_stop_2.png
+END

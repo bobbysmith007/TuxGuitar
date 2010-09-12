@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/866/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control
+END
+TGLyricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGLyricImpl.java
+END
+TGTextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGTextImpl.java
+END
+TGLayoutVertical.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/856/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGLayoutVertical.java
+END
+TGTrackSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGTrackSpacing.java
+END
+TGResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/850/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGResources.java
+END
+TGLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/855/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGLayout.java
+END
+TGBeatSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGBeatSpacing.java
+END
+TGLayoutStyles.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/tuxguitar/!svn/ver/850/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGLayoutStyles.java
+END
+TGChordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/854/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGChordImpl.java
+END
+TGMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/858/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGMeasureImpl.java
+END
+TGController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGController.java
+END
+TGSpacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGSpacing.java
+END
+TGTrackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGTrackImpl.java
+END
+TGVoiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGVoiceImpl.java
+END
+TGNoteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/866/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGNoteImpl.java
+END
+TGLayoutHorizontal.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/855/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGLayoutHorizontal.java
+END
+TGBeatGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGBeatGroup.java
+END
+TGFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGFactoryImpl.java
+END
+TGMeasureBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGMeasureBuffer.java
+END
+TGMeasureHeaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGMeasureHeaderImpl.java
+END
+TGBeatImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/817/trunk/TuxGuitar/src/org/herac/tuxguitar/graphics/control/TGBeatImpl.java
+END

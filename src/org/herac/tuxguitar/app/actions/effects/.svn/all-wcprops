@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects
+END
+ChangeVibratoNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeVibratoNoteAction.java
+END
+ChangeBendNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeBendNoteAction.java
+END
+ChangeHammerNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeHammerNoteAction.java
+END
+ChangeStaccatoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeStaccatoAction.java
+END
+ChangeTappingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeTappingAction.java
+END
+ChangeHeavyAccentuatedNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeHeavyAccentuatedNoteAction.java
+END
+ChangeLetRingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeLetRingAction.java
+END
+ChangeAccentuatedNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeAccentuatedNoteAction.java
+END
+ChangeTremoloBarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeTremoloBarAction.java
+END
+ChangeGraceNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeGraceNoteAction.java
+END
+ChangeGhostNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeGhostNoteAction.java
+END
+ChangePoppingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangePoppingAction.java
+END
+ChangeTrillNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeTrillNoteAction.java
+END
+ChangeSlappingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeSlappingAction.java
+END
+ChangeDeadNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeDeadNoteAction.java
+END
+ChangePalmMuteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangePalmMuteAction.java
+END
+ChangeSlideNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeSlideNoteAction.java
+END
+ChangeHarmonicNoteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeHarmonicNoteAction.java
+END
+ChangeFadeInAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeFadeInAction.java
+END
+ChangeTremoloPickingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/effects/ChangeTremoloPickingAction.java
+END

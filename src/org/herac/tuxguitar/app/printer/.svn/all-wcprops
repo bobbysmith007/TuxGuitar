@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/tuxguitar/!svn/ver/855/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer
+END
+PrintController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/tuxguitar/!svn/ver/850/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintController.java
+END
+PrintStyles.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintStyles.java
+END
+PrintStylesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintStylesDialog.java
+END
+PrintLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/855/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintLayout.java
+END
+PrintDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintDocument.java
+END
+PrintPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/printer/PrintPreview.java
+END

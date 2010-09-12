@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport
+END
+TransportModeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportModeAction.java
+END
+TransportMetronomeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportMetronomeAction.java
+END
+TransportPlayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportPlayAction.java
+END
+TransportStopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportStopAction.java
+END
+TransportSetLoopSHeaderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportSetLoopSHeaderAction.java
+END
+TransportSetLoopEHeaderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/transport/TransportSetLoopEHeaderAction.java
+END

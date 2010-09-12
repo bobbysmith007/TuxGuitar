@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom
+END
+UndoableChangeAlternativeRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeAlternativeRepeat.java
+END
+UndoableChangeTripletFeel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeTripletFeel.java
+END
+UndoableChangeTimeSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeTimeSignature.java
+END
+UndoableChangeMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeMarker.java
+END
+UndoableChangeOpenRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeOpenRepeat.java
+END
+UndoableChangeTempo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeTempo.java
+END
+UndoableChangeCloseRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeCloseRepeat.java
+END
+UndoableChangeClef.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeClef.java
+END
+UndoableChangeKeySignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeKeySignature.java
+END
+UndoableChangeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/undoables/custom/UndoableChangeInfo.java
+END

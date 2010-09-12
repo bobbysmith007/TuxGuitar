@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo
+END
+UndoableEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/UndoableEdit.java
+END
+UndoableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/UndoableManager.java
+END
+CannotUndoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/CannotUndoException.java
+END
+CannotRedoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/undo/CannotRedoException.java
+END

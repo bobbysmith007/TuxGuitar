@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/815/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer
+END
+MidiSequencerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/tuxguitar/!svn/ver/815/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiSequencerImpl.java
+END
+MidiEventPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiEventPlayer.java
+END
+MidiEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiEvent.java
+END
+MidiEventDispacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/460/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiEventDispacher.java
+END
+MidiTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiTrack.java
+END
+MidiSequencerProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiSequencerProviderImpl.java
+END
+MidiTickPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiTickPlayer.java
+END
+MidiSequenceHandlerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiSequenceHandlerImpl.java
+END
+MidiTrackController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/460/trunk/TuxGuitar/src/org/herac/tuxguitar/player/impl/sequencer/MidiTrackController.java
+END

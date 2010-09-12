@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/tuxguitar/!svn/ver/555/trunk/TuxGuitar/src/org/herac/tuxguitar/song/helpers
+END
+TGTrackSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/helpers/TGTrackSegment.java
+END
+TGSongSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/song/helpers/TGSongSegment.java
+END
+TGSongSegmentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/tuxguitar/!svn/ver/555/trunk/TuxGuitar/src/org/herac/tuxguitar/song/helpers/TGSongSegmentHelper.java
+END

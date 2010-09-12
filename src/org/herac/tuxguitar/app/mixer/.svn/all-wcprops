@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/mixer
+END
+TGMixer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/mixer/TGMixer.java
+END
+TGMixerTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/mixer/TGMixerTrack.java
+END
+TGMixerTrackChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/mixer/TGMixerTrackChannel.java
+END

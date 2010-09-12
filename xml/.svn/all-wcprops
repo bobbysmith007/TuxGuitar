@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml
+END
+build-freebsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-freebsd.xml
+END
+build-windows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-windows.xml
+END
+build-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-linux.xml
+END
+build-fedora.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-fedora.xml
+END
+build-mac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-mac.xml
+END
+build-ubuntu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/tuxguitar/!svn/ver/822/trunk/TuxGuitar/xml/build-ubuntu.xml
+END

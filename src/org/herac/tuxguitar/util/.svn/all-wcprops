@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/tuxguitar/!svn/ver/726/trunk/TuxGuitar/src/org/herac/tuxguitar/util
+END
+TGVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/tuxguitar/!svn/ver/605/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGVersion.java
+END
+TGLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/tuxguitar/!svn/ver/726/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGLock.java
+END
+TGLibraryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGLibraryLoader.java
+END
+TGClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGClassLoader.java
+END
+TGSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/tuxguitar/!svn/ver/585/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGSynchronizer.java
+END
+TGServiceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/5/trunk/TuxGuitar/src/org/herac/tuxguitar/util/TGServiceReader.java
+END

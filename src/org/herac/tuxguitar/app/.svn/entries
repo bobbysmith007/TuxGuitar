@@ -1,0 +1,141 @@
+10
+
+dir
+871
+https://tuxguitar.svn.sourceforge.net/svnroot/tuxguitar/trunk/TuxGuitar/src/org/herac/tuxguitar/app
+https://tuxguitar.svn.sourceforge.net/svnroot/tuxguitar
+
+
+
+2010-08-06T17:27:32.669054Z
+857
+akdmia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e5ace225-184b-0410-aeed-e0aa2ff36a70
+
+helper
+dir
+
+marker
+dir
+
+items
+dir
+
+printer
+dir
+
+system
+dir
+
+mixer
+dir
+
+table
+dir
+
+help
+dir
+
+transport
+dir
+
+clipboard
+dir
+
+TGMain.java
+file
+
+
+
+
+2010-09-10T02:38:53.693256Z
+dbe1de38f509133de4a4d9da4e8cc9ce
+2010-08-03T23:40:14.020132Z
+818
+akdmia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+165
+
+tools
+dir
+
+actions
+dir
+
+undo
+dir
+
+editors
+dir
+
+TuxGuitar.java
+file
+
+
+
+
+2010-09-10T02:38:53.693256Z
+b8e6edadfc39ab1fc0ef65b846a32dca
+2010-08-03T23:40:14.020132Z
+818
+akdmia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22453
+
+util
+dir
+

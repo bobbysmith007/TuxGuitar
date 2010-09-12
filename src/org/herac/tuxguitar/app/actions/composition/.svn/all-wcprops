@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition
+END
+ChangeInfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeInfoAction.java
+END
+ChangeTripletFeelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeTripletFeelAction.java
+END
+ChangeTimeSignatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeTimeSignatureAction.java
+END
+ChangeTempoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeTempoAction.java
+END
+ChangeClefAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeClefAction.java
+END
+ChangeKeySignatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/tuxguitar/!svn/ver/820/trunk/TuxGuitar/src/org/herac/tuxguitar/app/actions/composition/ChangeKeySignatureAction.java
+END

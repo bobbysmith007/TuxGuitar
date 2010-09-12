@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/clipboard
+END
+ClipBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/clipboard/ClipBoard.java
+END
+Transferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/clipboard/Transferable.java
+END
+MeasureTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/clipboard/MeasureTransferable.java
+END
+CannotInsertTransferException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/tuxguitar/!svn/ver/819/trunk/TuxGuitar/src/org/herac/tuxguitar/app/clipboard/CannotInsertTransferException.java
+END
