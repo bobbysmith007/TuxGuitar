@@ -20,7 +20,7 @@ import org.herac.tuxguitar.song.models.effects.TGEffectTrill;
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-public abstract class TGNoteEffect {
+public class TGNoteEffect implements java.io.Serializable  {
 	private TGEffectBend bend;
 	private TGEffectTremoloBar tremoloBar;
 	private TGEffectHarmonic harmonic;

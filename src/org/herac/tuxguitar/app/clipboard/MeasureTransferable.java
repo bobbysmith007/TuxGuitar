@@ -6,6 +6,9 @@
  */
 package org.herac.tuxguitar.app.clipboard;
 
+import java.awt.datatransfer.DataFlavor;
+import java.awt.datatransfer.UnsupportedFlavorException;
+import java.io.IOException;
 import java.util.Iterator;
 
 import org.herac.tuxguitar.app.TuxGuitar;
@@ -22,7 +25,7 @@ import org.herac.tuxguitar.song.models.TGTrack;
  * 
  * TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
  */
-public class MeasureTransferable implements Transferable {
+public class MeasureTransferable implements Transferable, java.io.Serializable {
 	public static final int TRANSFER_TYPE_REPLACE = 1;
 	public static final int TRANSFER_TYPE_INSERT = 2;
 	
@@ -127,4 +130,42 @@ public class MeasureTransferable implements Transferable {
 			header.setMarker(null);
 		}
 	}
+	
+	public static DataFlavor Measure = new DataFlavor(MeasureTransferable.class, "A tux guitar transferable measure");
+	public static DataFlavor[] Flavors = new DataFlavor[]{Measure};
+	
+	@Override
+	public Object getTransferData(DataFlavor flavor)
+			throws UnsupportedFlavorException, IOException {
+		// TODO Auto-generated method stub
+		if(flavor.match(Measure)) return this;
+		else throw new UnsupportedFlavorException(flavor);
+	}
+
+	@Override
+	public DataFlavor[] getTransferDataFlavors() {
+		// TODO Auto-generated method stub
+		return Flavors;
+	}
+
+	@Override
+	public boolean isDataFlavorSupported(DataFlavor flavor) {
+		return flavor.match(Measure);
+	}
+	
+	// This function detaches data from the editor environment so that it can be sent "across the wire" to another java process
+	public void detach(){
+		this.tablatureEditor = null;
+	}
+	public void attach(TablatureEditor ed){
+		this.tablatureEditor = ed;
+	}
+	public static boolean onlyonce = false;
+	private void writeObject(java.io.ObjectOutputStream out)     throws IOException{
+		this.detach();
+		out.defaultWriteObject();
+	}
+	private void readObject(java.io.ObjectInputStream in)
+	throws IOException, ClassNotFoundException{in.defaultReadObject();};
+ 
 }

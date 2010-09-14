@@ -6,7 +6,7 @@ import java.util.List;
 import org.herac.tuxguitar.song.factory.TGFactory;
 import org.herac.tuxguitar.song.models.TGMeasureHeader;
 
-public class TGSongSegment {
+public class TGSongSegment implements java.io.Serializable {
 	private List headers;
 	private List tracks;
 	

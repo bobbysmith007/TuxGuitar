@@ -16,7 +16,7 @@ import org.herac.tuxguitar.song.factory.TGFactory;
  * 
  * TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
  */
-public abstract class TGVoice {
+public class TGVoice implements java.io.Serializable  {
 	
 	public static final int DIRECTION_NONE = 0;
 	public static final int DIRECTION_UP = 1;

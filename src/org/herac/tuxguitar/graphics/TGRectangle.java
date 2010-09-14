@@ -1,6 +1,6 @@
 package org.herac.tuxguitar.graphics;
 
-public class TGRectangle {
+public class TGRectangle implements java.io.Serializable {
 	
 	private TGPoint location;
 	private TGDimension size;

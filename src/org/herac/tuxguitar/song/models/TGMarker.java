@@ -2,7 +2,7 @@ package org.herac.tuxguitar.song.models;
 
 import org.herac.tuxguitar.song.factory.TGFactory;
 
-public abstract class TGMarker {
+public class TGMarker implements java.io.Serializable {
 	private static final TGColor DEFAULT_COLOR = TGColor.RED;
 	private static final String DEFAULT_TITLE = "Untitled";
 	

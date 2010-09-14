@@ -17,7 +17,7 @@ import org.herac.tuxguitar.song.factory.TGFactory;
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-public abstract class TGTrack {
+public class TGTrack implements java.io.Serializable  {
 	public static final int MAX_OFFSET = 24;
 	public static final int MIN_OFFSET = -24;
 	

@@ -3,7 +3,7 @@ package org.herac.tuxguitar.song.models.effects;
 import org.herac.tuxguitar.song.factory.TGFactory;
 import org.herac.tuxguitar.song.models.TGDuration;
 
-public abstract class TGEffectTremoloPicking {
+public class TGEffectTremoloPicking {
 	
 	private TGDuration duration;
 	

@@ -5,6 +5,11 @@
  * Window - Preferences - Java - Code Style - Code Templates
  */
 package org.herac.tuxguitar.app.clipboard;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.UnsupportedFlavorException;
+import java.io.IOException;
+
+
 
 /**
  * @author julian
@@ -12,29 +17,31 @@ package org.herac.tuxguitar.app.clipboard;
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-public class ClipBoard {
-	private Transferable transferable;
-	
-	public ClipBoard(){
-		this.transferable = null;
-	}
-	
-	public void addTransferable(Transferable transferable){
-		this.transferable = transferable;
+public class ClipBoard{
+	public ClipBoard(){}
+	public void addTransferable(final Transferable transferable){
+		Clipboard sysclip = java.awt.Toolkit.getDefaultToolkit().getSystemClipboard();
+		sysclip.setContents(transferable, null);
 	}
 	
 	public Transferable getTransferable(){
-		return this.transferable;
+		Clipboard sysclip = java.awt.Toolkit.getDefaultToolkit().getSystemClipboard();
+		try {
+			return (Transferable) java.awt.Toolkit.getDefaultToolkit().getSystemClipboard().getData(MeasureTransferable.Measure);
+		} 
+		catch (UnsupportedFlavorException e){ e.printStackTrace(); }	// TODO Auto-generated catch block
+		catch (IOException e){ e.printStackTrace(); }// TODO Auto-generated catch block
+		return null;
 	}
 	
 	public void insertTransfer() throws CannotInsertTransferException{
 		if(this.isEmpty()){
 			throw new CannotInsertTransferException();
 		}
-		this.transferable.insertTransfer();
+		this.getTransferable().insertTransfer();
 	}
 	
 	public boolean isEmpty(){
-		return (this.transferable == null);
+		return (this.getTransferable() == null);
 	}
 }

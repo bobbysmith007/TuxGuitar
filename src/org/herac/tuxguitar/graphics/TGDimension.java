@@ -1,6 +1,6 @@
 package org.herac.tuxguitar.graphics;
 
-public class TGDimension {
+public class TGDimension implements java.io.Serializable {
 	
 	private int width;
 	private int height;

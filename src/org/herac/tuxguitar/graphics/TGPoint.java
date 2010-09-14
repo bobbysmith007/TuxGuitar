@@ -1,6 +1,6 @@
 package org.herac.tuxguitar.graphics;
 
-public class TGPoint {
+public class TGPoint implements java.io.Serializable  {
 	
 	private int x;
 	private int y;

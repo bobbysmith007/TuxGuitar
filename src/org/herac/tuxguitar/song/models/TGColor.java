@@ -2,7 +2,7 @@ package org.herac.tuxguitar.song.models;
 
 import org.herac.tuxguitar.song.factory.TGFactory;
 
-public abstract class TGColor {
+public class TGColor implements java.io.Serializable {
 	public static final TGColor RED = newColor(255,0,0);
 	public static final TGColor GREEN = newColor(0,255,0);
 	public static final TGColor BLUE = newColor(0,0,255);

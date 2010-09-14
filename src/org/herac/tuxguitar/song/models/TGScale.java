@@ -1,6 +1,6 @@
 package org.herac.tuxguitar.song.models;
 
-public abstract class TGScale {
+public class TGScale implements java.io.Serializable  {
 	private final boolean[] notes = new boolean[12];
 	
 	private int key;

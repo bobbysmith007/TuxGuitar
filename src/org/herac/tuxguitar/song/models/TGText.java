@@ -2,7 +2,7 @@ package org.herac.tuxguitar.song.models;
 
 import org.herac.tuxguitar.song.factory.TGFactory;
 
-public class TGText{
+public class TGText implements java.io.Serializable {
 	
 	private String value;
 	private TGBeat beat;

@@ -18,7 +18,7 @@ import org.herac.tuxguitar.song.factory.TGFactory;
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-public abstract class TGSong {
+public class TGSong implements java.io.Serializable  {
 	
 	private String name;
 	private String artist;

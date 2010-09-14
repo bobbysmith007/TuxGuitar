@@ -4,7 +4,7 @@ import org.herac.tuxguitar.song.factory.TGFactory;
 import org.herac.tuxguitar.song.models.TGDuration;
 import org.herac.tuxguitar.song.models.TGVelocities;
 
-public abstract class TGEffectGrace {
+public class TGEffectGrace {
 	
 	public static final int TRANSITION_NONE = 0;
 	

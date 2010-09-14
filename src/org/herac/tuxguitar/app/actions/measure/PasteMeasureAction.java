@@ -135,8 +135,10 @@ public class PasteMeasureAction extends Action{
 			if( pasteMode > 0 && pasteCount > 0 ){
 				Transferable transferable = getEditor().getClipBoard().getTransferable();
 				if(transferable instanceof MeasureTransferable){
-					((MeasureTransferable)transferable).setTransferType( pasteMode );
-					((MeasureTransferable)transferable).setPasteCount( pasteCount );
+					MeasureTransferable meas = ((MeasureTransferable)transferable);
+					meas.attach(getEditor());
+					meas.setTransferType( pasteMode );
+					meas.setPasteCount( pasteCount );
 					
 					transferable.insertTransfer();
 					

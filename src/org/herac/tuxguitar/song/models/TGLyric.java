@@ -1,6 +1,6 @@
 package org.herac.tuxguitar.song.models;
 
-public abstract class TGLyric {
+public class TGLyric implements java.io.Serializable  {
 	private static final String REGEX = " ";
 	
 	private int from;

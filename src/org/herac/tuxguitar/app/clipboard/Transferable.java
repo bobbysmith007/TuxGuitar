@@ -12,7 +12,7 @@ package org.herac.tuxguitar.app.clipboard;
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-public interface Transferable {
+public interface Transferable extends java.awt.datatransfer.Transferable {
 	
 	public void insertTransfer()throws CannotInsertTransferException;
 	
